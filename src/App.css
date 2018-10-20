@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  width: 100%;
+  overflow: hidden;
+  color: white;
+}
+
+.App-title {
+  color: black;
+}
+
+.message {
+  font-size: 10pt;
+  color: black;
+}
+
+.Jumbotron {
+  background-color: #d81b60;
+}
+
